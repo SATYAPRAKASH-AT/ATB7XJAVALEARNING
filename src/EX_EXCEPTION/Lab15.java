@@ -1,2 +1,4 @@
-package EX_EXCEPTION;public class Lab15 {
+package EX_EXCEPTION;
+
+public class Lab15 {
 }

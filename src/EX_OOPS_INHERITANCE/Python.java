@@ -1,2 +1,4 @@
-package EX_OOPS_INHERITANCE;public class Python {
-}
+package EX_OOPS_INHERITANCE;
+
+    public class Python extends Programming  {
+    }

@@ -2,7 +2,7 @@ package NewEXERCISE01;
 
 import java.util.Scanner;
 
-public class Lab03 {
+public class positiveornegative {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the first number");

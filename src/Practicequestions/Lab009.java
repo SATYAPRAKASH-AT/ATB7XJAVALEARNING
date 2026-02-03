@@ -1,2 +1,18 @@
-package Practicequestions;public class Lab009 {
-}
+package Practicequestions;
+
+    class Student {
+        String name;
+        int age;
+
+        void display() {
+            System.out.println(name + " " + age);
+        }
+
+        public static void main(String[] args) {
+            Student s1 = new Student();
+            s1.name = "Satya";
+            s1.age = 22;
+            s1.display();
+        }
+    }
+

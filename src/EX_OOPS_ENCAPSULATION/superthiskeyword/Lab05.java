@@ -1,4 +1,4 @@
-package EX_OOPS_ENCAPSULATION;
+package EX_OOPS_ENCAPSULATION.superthiskeyword;
 
 public class Lab05 {
     public static void main(String[] args) {

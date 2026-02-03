@@ -2,7 +2,7 @@ package NewEXERCISE01;
 
 import java.util.Scanner;
 
-public class Lab01 {
+public class Largestnumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the first number");

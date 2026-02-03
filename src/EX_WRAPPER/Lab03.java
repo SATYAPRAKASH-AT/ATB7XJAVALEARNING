@@ -1,2 +1,19 @@
-package EX_WRAPPER;public class Lab03 {
+package EX_WRAPPER;
+
+public class Lab03 {
+    public static void main(String[] args) {
+
+        double d = 90.87;
+        // Primtive to Wrapper - valueOf
+        String s1 = String.valueOf(d);
+        Double d1 = Double.valueOf(d);
+        Integer i1 = Integer.valueOf((int) d);
+
+        int r = 34; // new int();
+
+        // Primitive Variables - Why Java is NOt 100% OOPs?
+        // Wrapper class - Java 100% OOPs
+
+
+    }
 }
